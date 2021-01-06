@@ -26,6 +26,11 @@ package com.luna.algorithm.listnode;
 //        链表中节点的数目在范围 [0, 100] 内
 //        0 <= Node.val <= 100
 
+import com.luna.algorithm.common.ListNode;
+
 public class SwapPairs {
+    public ListNode swapPairs(ListNode head) {
+        return null;
+    }
 
 }
