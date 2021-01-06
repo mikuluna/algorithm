@@ -29,8 +29,53 @@ package com.luna.algorithm.listnode;
 import com.luna.algorithm.common.ListNode;
 
 public class SwapPairs {
+    //适用于n个反转
     public ListNode swapPairs(ListNode head) {
-        return null;
+        if(head == null || head.next == null){
+            return head;
+        }
+        ListNode res = new ListNode(0);
+        res.next = head;
+        ListNode pre = res;
+        ListNode index = res;
+        ListNode next = head;
+        while(index != null){
+            for(int i =0;i <  2 && index!=null;i++){
+                index = index.next;
+            }
+            if(index == null){
+                break;
+            }
+            ListNode start = index.next;
+            index.next = null;
+            pre.next = reverse(next);
+            next.next = start;
+            pre = next;
+            index = next;
+            next = start;
+        }
+        return res.next;
+    }
+
+    public ListNode reverse(ListNode head){
+        ListNode pre = null;
+        while(head != null){
+            ListNode next = head.next;
+            head.next = pre;
+            pre = head;
+            head = next;
+        }
+        return pre;
+    }
+
+    public static void main(String[] args) {
+        ListNode l1 = new ListNode(1);
+        l1.add(2).add(3).add(4).add(5);
+        SwapPairs s = new SwapPairs();
+        ListNode res = s.swapPairs(l1);
+        if(res != null) {
+            res.print();
+        }
     }
 
 }
