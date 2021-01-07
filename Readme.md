@@ -24,7 +24,8 @@
 22. [括号生成(中等)](src/main/java/com/luna/algorithm/back/GenerateParenthesis.java)
 23. [合并K个升序链表(困难)](src/main/java/com/luna/algorithm/listnode/MergeKLists.java)
 24. [两两交换链表中的节点(中等)](src/main/java/com/luna/algorithm/listnode/SwapPairs.java)
-
+25. [K个一组翻转链表(困難)](src/main/java/com/luna/algorithm/listnode/ReverseKGroup.java)
+26. [删除排序数组中的重复项(简单)](src/main/java/com/luna/algorithm/array/RemoveDuplicates.java)
 
 
 
