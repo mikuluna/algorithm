@@ -56,7 +56,7 @@ public class RemoveDuplicates {
 
     public static void main(String[] args) {
         RemoveDuplicates r = new RemoveDuplicates();
-        int[] nums = new int[]{1};
+        int[] nums = new int[]{1,1,2};
         nums = new int[]{0,0,1,1,1,2,2,3,3,4};
         int len = r.removeDuplicates(nums);
         for (int i = 0; i < len; i++) {

@@ -26,8 +26,8 @@
 24. [两两交换链表中的节点(中等)](src/main/java/com/luna/algorithm/listnode/SwapPairs.java)
 25. [K个一组翻转链表(困難)](src/main/java/com/luna/algorithm/listnode/ReverseKGroup.java)
 26. [删除排序数组中的重复项(简单)](src/main/java/com/luna/algorithm/array/RemoveDuplicates.java)
-
-
+27. [移除元素(简单)](src/main/java/com/luna/algorithm/array/RemoveElement.java)
+28. [实现 strStr()(简单)](src/main/java/com/luna/algorithm/string/StrStr.java)
 
 
 
