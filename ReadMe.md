@@ -28,6 +28,8 @@
 26. [删除排序数组中的重复项(简单)](src/main/java/com/luna/algorithm/array/RemoveDuplicates.java)
 27. [移除元素(简单)](src/main/java/com/luna/algorithm/array/RemoveElement.java)
 28. [实现 strStr()(简单)](src/main/java/com/luna/algorithm/string/StrStr.java)
+29. [两数相除(中等)](src/main/java/com/luna/algorithm/number/Divide.java)
+30. [串联所有单词的子串(困难)](src/main/java/com/luna/algorithm/string/FindSubstring.java)
 
 
 
