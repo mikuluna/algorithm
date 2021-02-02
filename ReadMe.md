@@ -31,5 +31,4 @@
 29. [两数相除(中等)](src/main/java/com/luna/algorithm/number/Divide.java)
 30. [串联所有单词的子串(困难)](src/main/java/com/luna/algorithm/string/FindSubstring.java)
 31. [下一个排列(中等)](src/main/java/com/luna/algorithm/array/NextPermutation.java)
-
-
+32. [最长有效括号(困难)](src/main/java/com/luna/algorithm/string/LongestValidParentheses.java)
