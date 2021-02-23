@@ -33,7 +33,7 @@
 31. [下一个排列(中等)](src/main/java/com/luna/algorithm/array/NextPermutation.java)
 32. [最长有效括号(困难)](src/main/java/com/luna/algorithm/string/LongestValidParentheses.java)
 33. [搜索旋转排序数组()](src/main/java/com/luna/algorithm/array/Search.java)
-
+34. [在排序数组中查找元素的第一个和最后一个位置](src/main/java/com/luna/algorithm/array/SearchRange.java)
 
 其他题目:
 1. [阿里题目-快递配送最短距离](src/main/java/com/luna/algorithm/number/AliKuaiDi.java)
