@@ -35,5 +35,6 @@
 33. [搜索旋转排序数组(中等)](src/main/java/com/luna/algorithm/array/Search.java)
 34. [在排序数组中查找元素的第一个和最后一个位置(中等)](src/main/java/com/luna/algorithm/array/SearchRange.java)
 35. [搜索插入位置(简单)](src/main/java/com/luna/algorithm/array/SearchInsert.java)
+36. [有效的数独(中等)](src/main/java/com/luna/algorithm/array/IsValidSudoku.java)
 其他题目:
 1. [阿里题目-快递配送最短距离](src/main/java/com/luna/algorithm/number/AliKuaiDi.java)
