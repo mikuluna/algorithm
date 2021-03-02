@@ -38,6 +38,7 @@
 36. [有效的数独(中等)](src/main/java/com/luna/algorithm/array/IsValidSudoku.java)
 37. [解数独(困难)](src/main/java/com/luna/algorithm/array/SolveSudoku.java)
 38. [外观数列(简单)](src/main/java/com/luna/algorithm/number/CountAndSay.java)
-
+39. [组合总和(中等)](src/main/java/com/luna/algorithm/back/CombinationSum.java)
+40. [组合总和 II(中等)](src/main/java/com/luna/algorithm/back/CombinationSum2.java)
 其他题目:
 1. [阿里题目-快递配送最短距离](src/main/java/com/luna/algorithm/number/AliKuaiDi.java)
