@@ -40,5 +40,7 @@
 38. [外观数列(简单)](src/main/java/com/luna/algorithm/number/CountAndSay.java)
 39. [组合总和(中等)](src/main/java/com/luna/algorithm/back/CombinationSum.java)
 40. [组合总和 II(中等)](src/main/java/com/luna/algorithm/back/CombinationSum2.java)
+41. [缺失的第一个正数(困难)](src/main/java/com/luna/algorithm/array/FirstMissingPositive.java)
+
 其他题目:
 1. [阿里题目-快递配送最短距离](src/main/java/com/luna/algorithm/number/AliKuaiDi.java)
