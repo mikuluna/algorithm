@@ -42,7 +42,7 @@
 40. [组合总和 II(中等)](src/main/java/com/luna/algorithm/back/CombinationSum2.java)
 41. [缺失的第一个正数(困难)](src/main/java/com/luna/algorithm/array/FirstMissingPositive.java)
 42. [接雨水(困难)](src/main/java/com/luna/algorithm/array/Trap.java)
-
+43. [字符串相乘(中等)](src/main/java/com/luna/algorithm/string/Multiply.java)
 
 
 其他题目:
