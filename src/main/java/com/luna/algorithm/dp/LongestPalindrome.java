@@ -1,4 +1,4 @@
-package com.luna.algorithm.string;
+package com.luna.algorithm.dp;
 //5. 最长回文子串
 //        给定一个字符串 s，找到 s 中最长的回文子串。你可以假设 s 的最大长度为 1000。
 //
@@ -11,9 +11,6 @@ package com.luna.algorithm.string;
 //
 //        输入: "cbbd"
 //        输出: "bb"
-
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-import org.w3c.dom.ls.LSOutput;
 
 public class LongestPalindrome {
 
