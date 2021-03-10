@@ -44,6 +44,8 @@
 42. [接雨水(困难)](src/main/java/com/luna/algorithm/array/Trap.java)
 43. [字符串相乘(中等)](src/main/java/com/luna/algorithm/string/Multiply.java)
 44. [通配符匹配(困难)](src/main/java/com/luna/algorithm/dp/IsMatch2.java)
+45. [跳跃游戏 II(困难)](src/main/java/com/luna/algorithm/array/Jump.java)
+
 
 其他题目:
 1. [阿里题目-快递配送最短距离](src/main/java/com/luna/algorithm/number/AliKuaiDi.java)
