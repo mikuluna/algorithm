@@ -10,7 +10,7 @@
 8. [字符串转换整数 (atoi)(中等)](src/main/java/com/luna/algorithm/string/MyAtoi.java)
 9. [回文数(简单)](src/main/java/com/luna/algorithm/number/IsPalindrome.java)
 10. [正则表达式匹配(困难)](src/main/java/com/luna/algorithm/dp/IsMatch.java)
-11. [盛最多水的容器(中等)](src/main/java/com/luna/algorithm/array/MaxArea.java)
+11. [盛最多水的容器(中等)](src/main/java/com/luna/algorithm/greedy/MaxArea.java)
 12. [整数转罗马数字(中等)](src/main/java/com/luna/algorithm/number/IntegerToRoman.java)
 13. [罗马数字转整数(简单)](src/main/java/com/luna/algorithm/number/RomanToInt.java)
 14. [最长公共前缀(简单)](src/main/java/com/luna/algorithm/string/LongestCommonPrefix.java)
@@ -44,12 +44,33 @@
 42. [接雨水(困难)](src/main/java/com/luna/algorithm/array/Trap.java)
 43. [字符串相乘(中等)](src/main/java/com/luna/algorithm/string/Multiply.java)
 44. [通配符匹配(困难)](src/main/java/com/luna/algorithm/dp/IsMatch2.java)
-45. [跳跃游戏 II(中等)](src/main/java/com/luna/algorithm/array/Jump.java)
+45. [跳跃游戏 II(中等)](src/main/java/com/luna/algorithm/greedy/Jump.java)
 46. [全排列(中等)](src/main/java/com/luna/algorithm/back/Permute.java)
 47. [全排列 II(中等)](src/main/java/com/luna/algorithm/back/PermuteUnique.java)
 48. [旋转图像(中等)](src/main/java/com/luna/algorithm/array/Rotate.java)
 49. [字母异位词分组(中等)](src/main/java/com/luna/algorithm/array/GroupAnagrams.java)
 50. [50. Pow(x, n)](src/main/java/com/luna/algorithm/number/MyPow.java)
+51. [N 皇后(困难)](src/main/java/com/luna/algorithm/back/SolveNQueens.java)
+53. [最大子序和(简单)](src/main/java/com/luna/algorithm/greedy/MaxSubArray.java)
+54. [螺旋矩阵(中等)](src/main/java/com/luna/algorithm/array/SpiralOrder.java)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 其他题目:
