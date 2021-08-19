@@ -53,6 +53,8 @@
 51. [N 皇后(困难)](src/main/java/com/luna/algorithm/back/SolveNQueens.java)
 53. [最大子序和(简单)](src/main/java/com/luna/algorithm/greedy/MaxSubArray.java)
 54. [螺旋矩阵(中等)](src/main/java/com/luna/algorithm/array/SpiralOrder.java)
+55. [跳跃游戏](src/main/java/com/luna/algorithm/greedy/CanJump.java)
+56. [合并区间](src/main/java/com/luna/algorithm/array/MergeIntervals.java)
 
 
 
