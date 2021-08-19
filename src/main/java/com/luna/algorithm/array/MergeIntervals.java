@@ -22,15 +22,10 @@ package com.luna.algorithm.array;
 //        intervals[i].length == 2
 //        0 <= starti <= endi <= 10^4
 
-
-import com.sun.xml.internal.ws.util.StringUtils;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class MergeIntervals {
 
